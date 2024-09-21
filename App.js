@@ -84,7 +84,7 @@ const styles = StyleSheet.create({
   },
   inputContainer: {
     position: 'absolute',
-    top: 50, // Nostettu, mutta voit säätää tarpeen mukaan
+    top: 50, 
     width: '90%',
     zIndex: 1,
   },
@@ -97,7 +97,7 @@ const styles = StyleSheet.create({
   },
   map: {
     width: '100%',
-    height: '70%', // Vähennetty korkeutta, jotta syöte näkyy paremmin
-    marginTop: 100, // Lisätty tilaa kartan ylle
+    height: '70%', 
+    marginTop: 100, 
   },
 });
